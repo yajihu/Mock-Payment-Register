@@ -1,0 +1,3 @@
+Single-page mock payment website that used Angular 7 to do the front-end works.
+Used .Net core and Entity framework to do the backend server-side. 
+The payment data will store in the MSSQL database once the client clicks the submit button on the page.
